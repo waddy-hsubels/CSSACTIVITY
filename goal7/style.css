@@ -1,0 +1,15 @@
+h1, h2{
+  color: rgb(153, 28, 184);
+}
+.box .done{
+  color: orange;
+}
+li{
+  color: blue;
+}
+.list .done{
+  color: green;
+}
+body ul p{
+  font-size: 8px;
+}
